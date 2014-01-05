@@ -1,5 +1,4 @@
-NotPHP
-======
+# NotPHP
 
 A new scripting language, that takes the good parts of PHP (the shared-nothing 
 architecture, the ease of use and deployment for newbies) while throwing away 
