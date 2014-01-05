@@ -1,0 +1,9 @@
+NotPHP
+======
+
+A new scripting language, that takes the good parts of PHP (the shared-nothing 
+architecture, the ease of use and deployment for newbies) while throwing away 
+all the useless bits (the crappy syntax, the inconsistencies, the lack of a 
+formal grammar). Hopefully, if done correctly, we can have a scripting 
+language that, like PHP, treats web development as a first-class citizen, 
+without all the issues that PHP has. 
